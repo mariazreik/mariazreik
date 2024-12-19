@@ -41,8 +41,6 @@ Here are a few of the things I’ve been working on lately:
 
 ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariazreik&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariazreik&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🤝 Connect with Me
