@@ -20,15 +20,14 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building 
 
 #### Front-End:
 - HTML, CSS, JavaScript
-- React, Vue.js, Angular
 
 #### Back-End:
-- Node.js, Express.js, Python, Django
-- MongoDB, PostgreSQL
+- Python, Django
+- PostgreSQL
 
 #### Tools & Platforms:
-- Git, GitHub, GitLab, Docker, Jenkins
-- Firebase, AWS, Google Cloud
+- Git, GitHub, GitLab, Docker
+- AWS, Google Cloud
 
 ---
 
