@@ -1,4 +1,4 @@
-  # Hi there, I'm Maria! 👋
+  # Hi there, I'm Maria! 🧚‍♀️
 
 Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building impactful projects. Here's a quick overview of who I am, what I do, and what you can find in this repo. 😄
 
