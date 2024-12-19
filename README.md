@@ -4,11 +4,11 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building 
 
 ---
 
-### 👨‍💻 About Me
+### 👩🏻‍💻 About Me
 - 💻 I’m currently learning **[Your Current Focus]** and improving my skills in **[Technologies you're working with]**.
 - 🌱 I'm constantly exploring new tech like **[Mention any new tools or languages you're learning]**.
 - 👯 I’m looking to collaborate on exciting open-source projects.
-- 🤔 I’m currently open to **[freelance work/job opportunities/part-time collaborations]**.
+- 🤔 I’m currently open to job opportunities.
 
 ---
 
