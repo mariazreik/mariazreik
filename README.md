@@ -1,4 +1,6 @@
-  # Hi there, I'm Maria! 🩷
+![Header Image](https://noodle.digitalfutures.com/studentuploads/IMG_3090.JPG)
+
+# Hi there, I'm Maria! 🩷
 
 Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building impactful projects. Here's a quick overview of who I am, what I do, and what you can find in this repo. 😄
 
