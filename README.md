@@ -44,6 +44,8 @@ Here are a few of the things I’ve been working on lately:
 
 ![Maria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariazreik&theme=dark)
 
+![Maria's Repos](https://img.shields.io/github/followers/mariazreik?label=Repositories&style=social)
+
 ---
 
 ### 🤝 Connect with Me
