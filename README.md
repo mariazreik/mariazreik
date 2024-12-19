@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building 
 ---
 
 ### 👩🏻‍💻 About Me
-💻 I’m currently learning Data Engineering concepts and improving my skills in Python, SQL, and cloud platforms like AWS.
-🌱 I’m constantly exploring new tools like Apache Spark, Apache Airflow, and data warehousing solutions such as Snowflake and Redshift.
-📊 I enjoy working with big data pipelines, ETL processes, and automating workflows.
-🚀 Aspiring to build scalable and efficient data systems!
-🤔 I’m currently open to job opportunities.
+💻 - I’m currently learning Data Engineering concepts and improving my skills in Python, SQL, and cloud platforms like AWS.
+🌱 - I’m constantly exploring new tools like Apache Spark, Apache Airflow, and data warehousing solutions such as Snowflake and Redshift.
+📊 - I enjoy working with big data pipelines, ETL processes, and automating workflows.
+🚀 - Aspiring to build scalable and efficient data systems!
+🤔 - I’m currently open to job opportunities.
 
 ---
 
