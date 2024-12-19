@@ -56,7 +56,6 @@ Here are a few of the things I’ve been working on lately:
 
 ### 🌱 Fun Facts
 
-- 🚀 I love contributing to open-source projects!
 - 🎨 When I’m not coding, you can find me painting.
 - 📚 I’m also passionate about photography.
 
