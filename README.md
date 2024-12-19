@@ -1,4 +1,4 @@
-![Header Image](https://noodle.digitalfutures.com/studentuploads/IMG_3090.JPG)
+![Header Image](https://noodle.digitalfutures.com/studentuploads/IMG_9671_2.jpg)
 
 # Hi there, I'm Maria! 🩷
 
