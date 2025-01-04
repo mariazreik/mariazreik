@@ -56,8 +56,8 @@ Here are a few of the things I’ve been working on lately:
 ### 🌱 Fun Facts
 
 - 🎨 When I’m not coding, you can find me painting.
-- 📚 I’m also passionate about photography.
-- 🧩 And I enjoy solving puzzles—whether it's jigsaw or code!  
+- 📚 I’m passionate about photography.
+- 🧩 I enjoy solving puzzles—whether it's jigsaw or code!  
 
 ---
 
