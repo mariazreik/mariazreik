@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building 
 ### 🔥 My Latest Projects
 Here are a few of the things I’ve been working on lately:
 
-- [**Project 1**](https://github.com/yourusername/project1) - A brief description of your project.
-- [**Project 2**](https://github.com/yourusername/project2) - A brief description of your project.
-- [**Project 3**](https://github.com/yourusername/project3) - A brief description of your project.
+- [**Project 1**](https://github.com/yourusername/project1) - 
+- [**Project 2**](https://github.com/yourusername/project2) - 
+- [**Project 3**](https://github.com/yourusername/project3) - 
 
 ---
 
