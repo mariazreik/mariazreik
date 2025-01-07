@@ -48,7 +48,7 @@ Here are a few of the things I’ve been working on lately:
 
 ### 🤝 Connect with Me
 
-- [Email](maria.zreik@outlook.com) - maria.zreik@outlook.com
+- Email: maria.zreik@outlook.com
 - [LinkedIn](https://linkedin.com/in/mariazreik)
 
 ---
