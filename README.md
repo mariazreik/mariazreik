@@ -42,7 +42,7 @@ Here are a few of the things I’ve been working on lately:
 
 ### 📊 GitHub Stats
 
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?mariazreik=your-username&show_icons=true&theme=dark)
+![Maria's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariazreik&theme=dark)
 
 ---
 
