@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Data Engineer who loves building 
 - HTML, CSS, JavaScript
 
 #### Back-End:
-- Python, Django
+- Python
 - PostgreSQL
 
 #### Tools & Platforms:
